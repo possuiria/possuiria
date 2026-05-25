@@ -4,4 +4,4 @@ Sou um desenvolvedor Full-Stack, atualmente estudando e focando em aprimorar cad
 ___
 # 💻 Habilidades
 ___
-                                       ## FrontEnd
+##                                         Frontend
