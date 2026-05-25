@@ -2,3 +2,6 @@
 
 Sou um desenvolvedor Full-Stack, atualmente estudando e focando em aprimorar cada dia mais meus conhecimentos.
 ___
+# 💻 Habilidades
+___
+                                       ## FrontEnd
