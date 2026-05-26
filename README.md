@@ -6,7 +6,7 @@
   <img src="https://media.tenor.com/dnEtiyBOa-gAAAAj/wave.gif" />
 </picture>
 
- Sou um desenvolvedor Full-Stack, atualmente estudando e focando em aprimorar cada dia mais meus conhecimentos.
+ Sou um desenvolvedor Full-Stack, atualmente estudando e focando em aprimorar cada vez mais meus conhecimentos.
 
 
 # 💻 Habilidades
