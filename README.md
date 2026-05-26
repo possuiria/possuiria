@@ -3,7 +3,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://media.tenor.com/dnEtiyBOa-gAAAAj/wave.gif" />
+  <img src="https://media.tenor.com/dnEtiyBOa-gAAAAj/wave.gif" width="100" />
 </picture>
 
  Sou um desenvolvedor Full-Stack, atualmente estudando e focando em aprimorar cada vez mais meus conhecimentos.
